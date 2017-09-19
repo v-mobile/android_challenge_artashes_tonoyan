@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChallengeApplication</string>
+
+    <string name="person_fullname_template">%1$s, %2$s</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="dialog_positive_button_add">ADD</string>
+</resources>
